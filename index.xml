@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cari bug</title>
+    <link>/</link>
+    <description>Recent content on Cari bug</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Sat, 17 Apr 2021 17:26:02 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Judul Artikel</title>
+      <link>/posts/judul-artikel/</link>
+      <pubDate>Sat, 17 Apr 2021 17:26:02 +0000</pubDate>
+      
+      <guid>/posts/judul-artikel/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
